@@ -1,0 +1,22 @@
+# Project_so_dwiir_bagian3
+
+# tugas_so_dwiir
+# LAPORAN PRATIKUM
+## Nama: dwi indah revalina
+## NIM: 05301425011
+## MK : Sistem Operasi (project 2)
+## Kelas : Sistem Informasi -A
+
+### Script Membuat Struktur Proyek
+https://drive.google.com/file/d/137kiJSXxYt9MayqeShI1F33IJZCURuAo/view?usp=drivesdk
+
+#### 1.Buat direktori di Home
+mkdir project_sistem_operasi_A
+#### 2. Didalam buat src/, doc/, data/.
+cd project_sistem_operasi_A
+#### 3. Buat file kosong README.md dan src/main.sh
+touch README.md
+touch src/main.sh
+#### 4. Tampilkan ukuran project_os dalam format yang mudah dibaca
+du -sh ~/project_sistem_operasi_A
+tree ~/project_sistem_operasi_A
