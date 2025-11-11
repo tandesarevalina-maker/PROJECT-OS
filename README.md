@@ -1,5 +1,5 @@
 # PROJECT-OS
-# tugas_so_saira
+# tugas_so_dwiir
 # LAPORAN PRATIKUM
 ## Nama: dwi indah revalina
 ## NIM: 05301425011
